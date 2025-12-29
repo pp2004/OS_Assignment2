@@ -1,0 +1,823 @@
+Successfully docked incoming ship with ship id 0 at dock 2 at timestep 1.
+Successfully docked incoming ship with ship id 3 at dock 10 at timestep 1.
+Successfully docked incoming ship with ship id 1 at dock 9 at timestep 1.
+Successfully docked incoming ship with ship id 2 at dock 11 at timestep 1.
+Successfully docked outgoing ship with ship id 0 at dock 7 at timestep 1.
+Ending timestep 1.
+Successfully docked incoming ship with ship id 4 at dock 1 at timestep 2.
+Successfully docked incoming ship with ship id 7 at dock 3 at timestep 2.
+Successfully docked incoming ship with ship id 6 at dock 25 at timestep 2.
+Successfully docked incoming ship with ship id 8 at dock 4 at timestep 2.
+Successfully docked incoming ship with ship id 5 at dock 23 at timestep 2.
+Successfully docked outgoing ship with ship id 1 at dock 13 at timestep 2.
+Successfully docked outgoing ship with ship id 2 at dock 24 at timestep 2.
+Successfully docked outgoing ship with ship id 3 at dock 17 at timestep 2.
+Ending timestep 2.
+Successfully docked incoming ship with ship id 12 at dock 15 at timestep 3.
+Successfully docked incoming ship with ship id 11 at dock 5 at timestep 3.
+Successfully docked incoming ship with ship id 13 at dock 26 at timestep 3.
+Successfully docked incoming ship with ship id 10 at dock 8 at timestep 3.
+Successfully docked incoming ship with ship id 9 at dock 20 at timestep 3.
+Successfully docked outgoing ship with ship id 4 at dock 0 at timestep 3.
+Successfully docked outgoing ship with ship id 5 at dock 22 at timestep 3.
+Successfully docked outgoing ship with ship id 6 at dock 12 at timestep 3.
+Successfully docked outgoing ship with ship id 7 at dock 19 at timestep 3.
+Ending timestep 3.
+Successfully docked incoming ship with ship id 19 at dock 16 at timestep 4.
+Successfully docked incoming ship with ship id 20 at dock 27 at timestep 4.
+Successfully docked incoming ship with ship id 15 at dock 6 at timestep 4.
+Successfully docked incoming ship with ship id 16 at dock 28 at timestep 4.
+Successfully docked incoming ship with ship id 17 at dock 14 at timestep 4.
+Successfully docked incoming ship with ship id 14 at dock 21 at timestep 4.
+Ending timestep 4.
+Ending timestep 5.
+Successfully docked incoming ship with ship id 24 at dock 29 at timestep 6.
+Ending timestep 6.
+Successfully docked incoming ship with ship id 26 at dock 18 at timestep 7.
+Successfully undocked incoming ship with ship id 0 from dock 2 at timestep 7.
+Successfully undocked outgoing ship with ship id 0 from dock 7 at timestep 7.
+Ending timestep 7.
+Successfully docked incoming ship with ship id 31 at dock 7 at timestep 8.
+Successfully docked incoming ship with ship id 32 at dock 2 at timestep 8.
+Successfully undocked incoming ship with ship id 10 from dock 8 at timestep 8.
+Successfully undocked outgoing ship with ship id 1 from dock 13 at timestep 8.
+Ending timestep 8.
+Successfully docked incoming ship with ship id 30 at dock 13 at timestep 9.
+Successfully undocked incoming ship with ship id 4 from dock 1 at timestep 9.
+Successfully undocked incoming ship with ship id 5 from dock 23 at timestep 9.
+Successfully undocked incoming ship with ship id 2 from dock 11 at timestep 9.
+Successfully undocked incoming ship with ship id 3 from dock 10 at timestep 9.
+Successfully undocked incoming ship with ship id 1 from dock 9 at timestep 9.
+Successfully undocked incoming ship with ship id 8 from dock 4 at timestep 9.
+Successfully undocked incoming ship with ship id 7 from dock 3 at timestep 9.
+Successfully docked incoming ship with ship id 36 at dock 8 at timestep 9.
+Successfully undocked outgoing ship with ship id 7 from dock 19 at timestep 9.
+Successfully undocked outgoing ship with ship id 4 from dock 0 at timestep 9.
+Ending timestep 9.
+Successfully docked incoming ship with ship id 0 at dock 2 at timestep 1.
+Successfully docked incoming ship with ship id 3 at dock 10 at timestep 1.
+Successfully docked incoming ship with ship id 1 at dock 9 at timestep 1.
+Successfully docked incoming ship with ship id 2 at dock 11 at timestep 1.
+Successfully docked outgoing ship with ship id 0 at dock 7 at timestep 1.
+Ending timestep 1.
+Successfully docked incoming ship with ship id 4 at dock 1 at timestep 2.
+Successfully docked incoming ship with ship id 7 at dock 3 at timestep 2.
+Successfully docked incoming ship with ship id 6 at dock 25 at timestep 2.
+Successfully docked incoming ship with ship id 8 at dock 4 at timestep 2.
+Successfully docked incoming ship with ship id 5 at dock 23 at timestep 2.
+Successfully docked outgoing ship with ship id 1 at dock 13 at timestep 2.
+Successfully docked outgoing ship with ship id 2 at dock 24 at timestep 2.
+Successfully docked outgoing ship with ship id 3 at dock 17 at timestep 2.
+Ending timestep 2.
+Successfully docked incoming ship with ship id 12 at dock 15 at timestep 3.
+Successfully docked incoming ship with ship id 11 at dock 5 at timestep 3.
+Successfully docked incoming ship with ship id 13 at dock 26 at timestep 3.
+Successfully docked incoming ship with ship id 10 at dock 8 at timestep 3.
+Successfully docked incoming ship with ship id 9 at dock 20 at timestep 3.
+Successfully docked outgoing ship with ship id 4 at dock 0 at timestep 3.
+Successfully docked outgoing ship with ship id 5 at dock 22 at timestep 3.
+Successfully docked outgoing ship with ship id 6 at dock 12 at timestep 3.
+Successfully docked outgoing ship with ship id 7 at dock 19 at timestep 3.
+Ending timestep 3.
+Successfully docked incoming ship with ship id 19 at dock 16 at timestep 4.
+Successfully docked incoming ship with ship id 20 at dock 27 at timestep 4.
+Successfully docked incoming ship with ship id 15 at dock 6 at timestep 4.
+Successfully docked incoming ship with ship id 16 at dock 28 at timestep 4.
+Successfully docked incoming ship with ship id 17 at dock 14 at timestep 4.
+Successfully docked incoming ship with ship id 14 at dock 21 at timestep 4.
+Ending timestep 4.
+Ending timestep 5.
+Successfully docked incoming ship with ship id 24 at dock 29 at timestep 6.
+Ending timestep 6.
+Successfully docked incoming ship with ship id 26 at dock 18 at timestep 7.
+Successfully undocked incoming ship with ship id 0 from dock 2 at timestep 7.
+Successfully undocked outgoing ship with ship id 0 from dock 7 at timestep 7.
+Ending timestep 7.
+Successfully docked incoming ship with ship id 31 at dock 7 at timestep 8.
+Successfully docked incoming ship with ship id 32 at dock 2 at timestep 8.
+Successfully undocked incoming ship with ship id 10 from dock 8 at timestep 8.
+Successfully undocked outgoing ship with ship id 1 from dock 13 at timestep 8.
+Ending timestep 8.
+Successfully docked incoming ship with ship id 30 at dock 13 at timestep 9.
+Successfully undocked incoming ship with ship id 4 from dock 1 at timestep 9.
+Successfully undocked incoming ship with ship id 5 from dock 23 at timestep 9.
+Successfully undocked incoming ship with ship id 2 from dock 11 at timestep 9.
+Successfully undocked incoming ship with ship id 3 from dock 10 at timestep 9.
+Successfully undocked incoming ship with ship id 1 from dock 9 at timestep 9.
+Successfully undocked incoming ship with ship id 8 from dock 4 at timestep 9.
+Successfully undocked incoming ship with ship id 7 from dock 3 at timestep 9.
+Successfully docked incoming ship with ship id 36 at dock 8 at timestep 9.
+Successfully undocked outgoing ship with ship id 7 from dock 19 at timestep 9.
+Successfully undocked outgoing ship with ship id 4 from dock 0 at timestep 9.
+Ending timestep 9.
+Successfully undocked incoming ship with ship id 12 from dock 15 at timestep 10.
+Successfully docked incoming ship with ship id 28 at dock 11 at timestep 10.
+Successfully undocked incoming ship with ship id 6 from dock 25 at timestep 10.
+Successfully undocked incoming ship with ship id 13 from dock 26 at timestep 10.
+Successfully undocked incoming ship with ship id 24 from dock 29 at timestep 10.
+Successfully undocked incoming ship with ship id 14 from dock 21 at timestep 10.
+Successfully undocked incoming ship with ship id 17 from dock 14 at timestep 10.
+Successfully docked incoming ship with ship id 39 at dock 1 at timestep 10.
+Successfully docked incoming ship with ship id 40 at dock 10 at timestep 10.
+Successfully docked incoming ship with ship id 23 at dock 19 at timestep 10.
+Successfully docked incoming ship with ship id 27 at dock 23 at timestep 10.
+Successfully docked incoming ship with ship id 43 at dock 3 at timestep 10.
+Successfully docked incoming ship with ship id 34 at dock 4 at timestep 10.
+Successfully docked incoming ship with ship id 38 at dock 0 at timestep 10.
+Successfully docked incoming ship with ship id 29 at dock 9 at timestep 10.
+Successfully undocked outgoing ship with ship id 2 from dock 24 at timestep 10.
+Successfully undocked outgoing ship with ship id 5 from dock 22 at timestep 10.
+Ending timestep 10.
+Successfully undocked incoming ship with ship id 20 from dock 27 at timestep 11.
+Successfully undocked incoming ship with ship id 26 from dock 18 at timestep 11.
+Successfully undocked incoming ship with ship id 16 from dock 28 at timestep 11.
+Successfully undocked incoming ship with ship id 9 from dock 20 at timestep 11.
+Successfully undocked incoming ship with ship id 11 from dock 5 at timestep 11.
+Successfully undocked incoming ship with ship id 15 from dock 6 at timestep 11.
+Successfully docked incoming ship with ship id 48 at dock 25 at timestep 11.
+Successfully docked incoming ship with ship id 44 at dock 15 at timestep 11.
+Successfully docked incoming ship with ship id 22 at dock 21 at timestep 11.
+Successfully docked incoming ship with ship id 33 at dock 22 at timestep 11.
+Successfully docked incoming ship with ship id 35 at dock 24 at timestep 11.
+Successfully docked incoming ship with ship id 25 at dock 14 at timestep 11.
+Successfully undocked outgoing ship with ship id 3 from dock 17 at timestep 11.
+Successfully undocked outgoing ship with ship id 6 from dock 12 at timestep 11.
+Successfully docked outgoing ship with ship id 18 at dock 29 at timestep 11.
+Ending timestep 11.
+Successfully undocked incoming ship with ship id 19 from dock 16 at timestep 12.
+Successfully docked incoming ship with ship id 51 at dock 28 at timestep 12.
+Successfully docked incoming ship with ship id 52 at dock 20 at timestep 12.
+Successfully docked incoming ship with ship id 50 at dock 17 at timestep 12.
+Successfully docked incoming ship with ship id 47 at dock 5 at timestep 12.
+Successfully docked incoming ship with ship id 41 at dock 27 at timestep 12.
+Successfully docked incoming ship with ship id 37 at dock 6 at timestep 12.
+Ending timestep 12.
+Successfully docked incoming ship with ship id 53 at dock 26 at timestep 13.
+Successfully docked incoming ship with ship id 56 at dock 12 at timestep 13.
+Ending timestep 13.
+Successfully docked incoming ship with ship id 60 at dock 16 at timestep 14.
+Successfully undocked incoming ship with ship id 27 from dock 23 at timestep 14.
+Successfully undocked incoming ship with ship id 36 from dock 8 at timestep 14.
+Ending timestep 14.
+Successfully undocked incoming ship with ship id 30 from dock 13 at timestep 15.
+Successfully undocked incoming ship with ship id 31 from dock 7 at timestep 15.
+Successfully docked incoming ship with ship id 62 at dock 18 at timestep 15.
+Successfully undocked incoming ship with ship id 29 from dock 9 at timestep 15.
+Successfully undocked incoming ship with ship id 34 from dock 4 at timestep 15.
+Successfully docked incoming ship with ship id 57 at dock 23 at timestep 15.
+Successfully undocked incoming ship with ship id 38 from dock 0 at timestep 15.
+Successfully docked incoming ship with ship id 63 at dock 8 at timestep 15.
+Ending timestep 15.
+Successfully docked incoming ship with ship id 65 at dock 9 at timestep 16.
+Successfully docked incoming ship with ship id 68 at dock 7 at timestep 16.
+Successfully undocked incoming ship with ship id 32 from dock 2 at timestep 16.
+Successfully undocked incoming ship with ship id 33 from dock 22 at timestep 16.
+Successfully docked incoming ship with ship id 67 at dock 13 at timestep 16.
+Successfully undocked incoming ship with ship id 43 from dock 3 at timestep 16.
+Successfully docked incoming ship with ship id 61 at dock 4 at timestep 16.
+Successfully docked incoming ship with ship id 66 at dock 0 at timestep 16.
+Ending timestep 16.
+Successfully undocked incoming ship with ship id 44 from dock 15 at timestep 17.
+Successfully docked incoming ship with ship id 70 at dock 22 at timestep 17.
+Successfully docked incoming ship with ship id 55 at dock 3 at timestep 17.
+Successfully docked incoming ship with ship id 45 at dock 2 at timestep 17.
+Ending timestep 17.
+Successfully undocked incoming ship with ship id 51 from dock 28 at timestep 18.
+Successfully undocked incoming ship with ship id 52 from dock 20 at timestep 18.
+Successfully undocked incoming ship with ship id 28 from dock 11 at timestep 18.
+Successfully undocked incoming ship with ship id 22 from dock 21 at timestep 18.
+Successfully undocked incoming ship with ship id 23 from dock 19 at timestep 18.
+Successfully undocked incoming ship with ship id 25 from dock 14 at timestep 18.
+Successfully docked incoming ship with ship id 73 at dock 15 at timestep 18.
+Successfully undocked incoming ship with ship id 39 from dock 1 at timestep 18.
+Successfully undocked outgoing ship with ship id 18 from dock 29 at timestep 18.
+Ending timestep 18.
+Successfully docked incoming ship with ship id 76 at dock 11 at timestep 19.
+Successfully docked incoming ship with ship id 77 at dock 20 at timestep 19.
+Successfully undocked incoming ship with ship id 48 from dock 25 at timestep 19.
+Successfully undocked incoming ship with ship id 35 from dock 24 at timestep 19.
+Successfully undocked incoming ship with ship id 40 from dock 10 at timestep 19.
+Successfully docked incoming ship with ship id 74 at dock 28 at timestep 19.
+Successfully undocked incoming ship with ship id 37 from dock 6 at timestep 19.
+Successfully undocked incoming ship with ship id 66 from dock 0 at timestep 19.
+Successfully docked incoming ship with ship id 72 at dock 1 at timestep 19.
+Successfully docked incoming ship with ship id 75 at dock 19 at timestep 19.
+Successfully docked incoming ship with ship id 59 at dock 21 at timestep 19.
+Successfully docked incoming ship with ship id 69 at dock 14 at timestep 19.
+Successfully docked incoming ship with ship id 71 at dock 29 at timestep 19.
+Ending timestep 19.
+Successfully docked incoming ship with ship id 80 at dock 0 at timestep 20.
+Successfully undocked incoming ship with ship id 41 from dock 27 at timestep 20.
+Successfully undocked incoming ship with ship id 53 from dock 26 at timestep 20.
+Successfully undocked incoming ship with ship id 50 from dock 17 at timestep 20.
+Successfully undocked incoming ship with ship id 56 from dock 12 at timestep 20.
+Successfully undocked incoming ship with ship id 47 from dock 5 at timestep 20.
+Successfully undocked incoming ship with ship id 63 from dock 8 at timestep 20.
+Successfully docked incoming ship with ship id 78 at dock 6 at timestep 20.
+Successfully docked incoming ship with ship id 18 at dock 25 at timestep 20.
+Successfully docked outgoing ship with ship id 26 at dock 24 at timestep 20.
+Ending timestep 20.
+Successfully docked incoming ship with ship id 82 at dock 8 at timestep 21.
+Successfully docked incoming ship with ship id 84 at dock 10 at timestep 21.
+Successfully docked incoming ship with ship id 81 at dock 26 at timestep 21.
+Successfully docked incoming ship with ship id 79 at dock 17 at timestep 21.
+Successfully docked incoming ship with ship id 85 at dock 5 at timestep 21.
+Successfully docked incoming ship with ship id 83 at dock 27 at timestep 21.
+Ending timestep 21.
+Successfully docked incoming ship with ship id 93 at dock 12 at timestep 22.
+Successfully undocked incoming ship with ship id 60 from dock 16 at timestep 22.
+Successfully undocked incoming ship with ship id 62 from dock 18 at timestep 22.
+Successfully undocked incoming ship with ship id 61 from dock 4 at timestep 22.
+Successfully undocked incoming ship with ship id 72 from dock 1 at timestep 22.
+Ending timestep 22.
+Successfully docked incoming ship with ship id 96 at dock 4 at timestep 23.
+Successfully docked incoming ship with ship id 97 at dock 1 at timestep 23.
+Successfully undocked incoming ship with ship id 68 from dock 7 at timestep 23.
+Successfully undocked incoming ship with ship id 57 from dock 23 at timestep 23.
+Successfully undocked incoming ship with ship id 70 from dock 22 at timestep 23.
+Successfully undocked incoming ship with ship id 59 from dock 21 at timestep 23.
+Successfully docked incoming ship with ship id 87 at dock 16 at timestep 23.
+Successfully docked incoming ship with ship id 102 at dock 18 at timestep 23.
+Ending timestep 23.
+Successfully docked incoming ship with ship id 99 at dock 22 at timestep 24.
+Successfully docked incoming ship with ship id 100 at dock 23 at timestep 24.
+Successfully undocked incoming ship with ship id 77 from dock 20 at timestep 24.
+Successfully undocked incoming ship with ship id 65 from dock 9 at timestep 24.
+Successfully docked incoming ship with ship id 103 at dock 7 at timestep 24.
+Successfully docked incoming ship with ship id 90 at dock 21 at timestep 24.
+Successfully undocked incoming ship with ship id 73 from dock 15 at timestep 24.
+Successfully undocked incoming ship with ship id 67 from dock 13 at timestep 24.
+Successfully undocked incoming ship with ship id 55 from dock 3 at timestep 24.
+Ending timestep 24.
+Successfully docked incoming ship with ship id 111 at dock 15 at timestep 25.
+Successfully docked incoming ship with ship id 113 at dock 20 at timestep 25.
+Successfully docked incoming ship with ship id 89 at dock 3 at timestep 25.
+Successfully undocked incoming ship with ship id 45 from dock 2 at timestep 25.
+Successfully undocked incoming ship with ship id 85 from dock 5 at timestep 25.
+Successfully docked incoming ship with ship id 108 at dock 9 at timestep 25.
+Successfully docked incoming ship with ship id 95 at dock 13 at timestep 25.
+Ending timestep 25.
+Successfully docked incoming ship with ship id 109 at dock 5 at timestep 26.
+Successfully undocked incoming ship with ship id 80 from dock 0 at timestep 26.
+Successfully undocked incoming ship with ship id 71 from dock 29 at timestep 26.
+Successfully undocked incoming ship with ship id 83 from dock 27 at timestep 26.
+Successfully undocked incoming ship with ship id 102 from dock 18 at timestep 26.
+Successfully docked incoming ship with ship id 114 at dock 2 at timestep 26.
+Successfully undocked incoming ship with ship id 78 from dock 6 at timestep 26.
+Successfully undocked outgoing ship with ship id 26 from dock 24 at timestep 26.
+Ending timestep 26.
+Successfully docked incoming ship with ship id 117 at dock 27 at timestep 27.
+Successfully docked incoming ship with ship id 110 at dock 6 at timestep 27.
+Successfully undocked incoming ship with ship id 76 from dock 11 at timestep 27.
+Successfully undocked incoming ship with ship id 97 from dock 1 at timestep 27.
+Successfully docked incoming ship with ship id 120 at dock 0 at timestep 27.
+Successfully undocked incoming ship with ship id 74 from dock 28 at timestep 27.
+Successfully undocked incoming ship with ship id 18 from dock 25 at timestep 27.
+Successfully undocked incoming ship with ship id 75 from dock 19 at timestep 27.
+Successfully docked incoming ship with ship id 118 at dock 24 at timestep 27.
+Successfully undocked incoming ship with ship id 69 from dock 14 at timestep 27.
+Successfully docked incoming ship with ship id 121 at dock 29 at timestep 27.
+Successfully docked incoming ship with ship id 122 at dock 18 at timestep 27.
+Ending timestep 27.
+Successfully docked incoming ship with ship id 123 at dock 1 at timestep 28.
+Successfully undocked incoming ship with ship id 79 from dock 17 at timestep 28.
+Successfully docked incoming ship with ship id 94 at dock 11 at timestep 28.
+Successfully docked incoming ship with ship id 115 at dock 19 at timestep 28.
+Successfully docked incoming ship with ship id 98 at dock 25 at timestep 28.
+Successfuldid the isMatch which gave 0 in solver 2 correct string is 6 but got 5
+did the isMatch which gave 1 in solver 3 correct string is 6 but got 6
+ly docked incoming ship with ship id 124 at dock 28 at timestep 28.
+Successfully docked incoming ship with ship id 101 at dock 14 at timestep 28.
+Ending timestep 28.
+Successfully undocked incoming ship with ship id 82 from dock 8 at timestep 29.
+Successfully undocked incoming ship with ship id 90 from dock 21 at timestep 29.
+Successfully docked incoming ship with ship id 127 at dock 17 at timestep 29.
+Ending timestep 29.
+Successfully docked incoming ship with ship id 131 at dock 8 at timestep 30.
+Successfully docked incoming ship with ship id 134 at dock 21 at timestep 30.
+Successfully undocked incoming ship with ship id 100 from dock 23 at timestep 30.
+Successfully undocked incoming ship with ship id 93 from dock 12 at timestep 30.
+Successfully undocked incoming ship with ship id 84 from dock 10 at timestep 30.
+Successfully undocked incoming ship with ship id 81 from dock 26 at timestep 30.
+Successfully undocked incoming ship with ship id 87 from dock 16 at timestep 30.
+Ending timestep 30.
+Successfully docked incoming ship with ship id 136 at dock 26 at timestep 31.
+Successfully undocked incoming ship with ship id 96 from dock 4 at timestep 31.
+Successfully docked incoming ship with ship id 138 at dock 23 at timestep 31.
+Successfully docked incoming ship with ship id 133 at dock 16 at timestep 31.
+Successfully undocked incoming ship with ship id 103 from dock 7 at timestep 31.
+Successfully docked incoming ship with ship id 139 at dock 10 at timestep 31.
+Successfully docked incoming ship with ship id 106 at dock 12 at timestep 31.
+Ending timestep 31.
+Successfully docked incoming ship with ship id 145 at dock 4 at timestep 32.
+Successfully docked incoming ship with ship id 146 at dock 7 at timestep 32.
+Successfully undocked incoming ship with ship id 99 from dock 22 at timestep 32.
+Successfully undocked incoming ship with ship id 111 from dock 15 at timestep 32.
+Successfully undocked incoming ship with ship id 118 from dock 24 at timestep 32.
+Ending timestep 32.
+Successfully docked incoming ship with ship id 150 at dock 24 at timestep 33.
+Successfully docked incoming ship with ship id 152 at dock 22 at timestep 33.
+Successfully undocked incoming ship with ship id 113 from dock 20 at timestep 33.
+Successfully undocked incoming ship with ship id 109 from dock 5 at timestep 33.
+Successfully docked incoming ship with ship id 140 at dock 15 at timestep 33.
+Successfully undocked incoming ship with ship id 121 from dock 29 at timestep 33.
+Successfully undocked incoming ship with ship id 108 from dock 9 at timestep 33.
+Successfully undocked incoming ship with ship id 89 from dock 3 at timestep 33.
+Successfully undocked incoming ship with ship id 114 from dock 2 at timestep 33.
+Ending timestep 33.
+Successfully docked incoming ship with ship id 157 at dock 20 at timestep 34.
+Successfully docked incoming ship with ship id 160 at dock 3 at timestep 34.
+Successfully undocked incoming ship with ship id 134 from dock 21 at timestep 34.
+Successfully undocked incoming ship with ship id 145 from dock 4 at timestep 34.
+Successfully docked incoming ship with ship id 142 at dock 2 at timestep 34.
+Successfully docked incoming ship with ship id 159 at dock 5 at timestep 34.
+Successfully docked incoming ship with ship id 158 at dock 9 at timestep 34.
+Successfully docked incoming ship with ship id 148 at dock 29 at timestep 34.
+Successfully undocked incoming ship with ship id 115 from dock 19 at timestep 34.
+Successfully undocked incoming ship with ship id 95 from dock 13 at timestep 34.
+Successfully undocked incoming ship with ship id 101 from dock 14 at timestep 34.
+Successfully undocked incoming ship with ship id 120 from dock 0 at timestep 34.
+Ending timestep 34.
+Successfully docked incoming ship with ship id 164 at dock 19 at timestep 35.
+Successfully undocked incoming ship with ship id 117 from dock 27 at timestep 35.
+Successfully undocked incoming ship with ship id 110 from dock 6 at timestep 35.
+Successfully undocked incoming ship with ship id 131 from dock 8 at timestep 35.
+Successfully docked incoming ship with ship id 132 at dock 4 at did the isMatch which gave 0 in solver 6 correct string is 6 but got 5
+did the isMatch which gave 1 in solver 7 correct string is 6 but got 6
+timestep 35.
+Successfully docked incoming ship with ship id 141 at dock 13 at timestep 35.
+Successfully undocked incoming ship with ship id 124 from dock 28 at timestep 35.
+Successfully docked incoming ship with ship id 161 at dock 0 at timestep 35.
+Successfully undocked incoming ship with ship id 98 from dock 25 at timestep 35.
+Successfully docked incoming ship with ship id 135 at dock 21 at timestep 35.
+Successfully undocked incoming ship with ship id 122 from dock 18 at timestep 35.
+Successfully undocked incoming ship with ship id 127 from dock 17 at timestep 35.
+Successfully docked outgoing ship with ship id 67 at dock 14 at timestep 35.
+Ending timestep 35.
+Successfully docked incoming ship with ship id 169 at dock 25 at timestep 36.
+Successfully docked incoming ship with ship id 171 at dock 17 at timestep 36.
+Successfully undocked incoming ship with ship id 123 from dock 1 at timestep 36.
+Successfully docked incoming ship with ship id 170 at dock 27 at timestep 36.
+Successfully docked incoming ship with ship id 166 at dock 8 at timestep 36.
+Successfully docked incoming ship with ship id 168 at dock 6 at timestep 36.
+Successfully docked incoming ship with ship id 153 at dock 18 at timestep 36.
+Successfully undocked incoming ship with ship id 94 from dock 11 at timestep 36.
+Successfully docked incoming ship with ship id 167 at dock 28 at timestep 36.
+Ending timestep 36.
+Successfully undocked incoming ship with ship id 150 from dock 24 at timestep 37.
+Successfully docked incoming ship with ship id 173 at dock 1 at timestep 37.
+Successfully docked incoming ship with ship id 175 at dock 11 at timestep 37.
+Successfully undocked incoming ship with ship id 138 from dock 23 at timestep 37.
+Ending timestep 37.
+Successfully undocked incoming ship with ship id 136 from dock 26 at timestep 38.
+Successfully docked incoming ship with ship id 178 at dock 23 at timestep 38.
+Successfully undocked incoming ship with ship id 106 from dock 12 at timestep 38.
+Successfully undocked incoming ship with ship id 139 from dock 10 at timestep 38.
+Successfully docked incoming ship with ship id 174 at dock 24 at timestep 38.
+Ending timestep 38.
+Successfully undocked incoming ship with ship id 146 from dock 7 at timestep 39.
+Successfully undocked incoming ship with ship id 160 from dock 3 at timestep 39.
+Successfully docked incoming ship with ship id 181 at dock 10 at timestep 39.
+Successfully docked incoming ship with ship id 184 at dock 12 at timestep 39.
+Successfully undocked incoming ship with ship id 133 from dock 16 at timestep 39.
+Successfully undocked incoming ship with ship id 158 from dock 9 at timestep 39.
+Successfully undocked incoming ship with ship id 175 from dock 11 at timestep 39.
+Successfully docked incoming ship with ship id 180 at dock 26 at timestep 39.
+Ending timestep 39.
+Successfully docked incoming ship with ship id 186 at dock 9 at timestep 40.
+Successfully docked incoming ship with ship id 179 at dock 3 at timestep 40.
+Successfully docked incoming ship with ship id 182 at dock 7 at timestep 40.
+Successfully docked incoming ship with ship id 183 at dock 11 at timestep 40.
+Successfully docked incoming ship with ship id 125 at dock 16 at timestep 40.
+Ending timestep 40.
+Successfully undocked incoming ship with ship id 152 from dock 22 at timestep 41.
+Successfully undocked incoming ship with ship id 167 from dock 28 at timestep 41.
+Successfully undocked incoming ship with ship id 140 from dock 15 at timestep 41.
+Successfully undocked incoming ship with ship id 159 from dock 5 at timestep 41.
+Successfully undocked incoming ship with ship id 132 from dock 4 at timestep 41.
+Successfully undocked incoming ship with ship id 142 from dock 2 at timestep 41.
+Successfully undocked incoming ship with ship id 161 from dock 0 at timestep 41.
+Ending timestep 41.
+Successfully docked incoming ship with ship id 193 at dock 28 at timestep 42.
+Successfully docked incoming ship with ship id 194 at dock 4 at timestep 42.
+Successfully undocked incoming ship with ship id 169 from dock 25 at timestep 42.
+Successfully undocked incoming ship with ship id 157 from dock 20 at timestep 42.
+Successfully undocked incoming ship with ship id 164 from dock 19 at timestep 42.
+Successfully docked incoming ship with ship id 191 at dock 0 at timestep 42.
+Successfully docked incoming ship with ship id 192 at dock 22 at timestep 42.
+Successfully docked incoming ship with ship id 189 at dock 2 at timestep 42.
+Successfully undocked incoming ship with ship id 148 from dock 29 at timestep 42.
+Successfully docked incoming ship with ship id 165 at dock 5 at timestep 42.
+Successfully undocked incoming ship with ship id 180 from dock 26 at timestep 42.
+Successfully undocked incoming ship with ship id 135 from dock 21 at timestep 42.
+Successfully docked incoming ship with ship id 188 at dock 15 at timestep 42.
+Successfully undocked incoming ship with ship id 166 from dock 8 at timestep 42.
+Ending timestep 42.
+Successfully docked incoming ship with ship id 196 at dock 29 at timestep 43.
+Successfully docked incoming ship with ship id 197 at dock 25 at timestep 43.
+Successfully undocked incoming ship with ship id 171 from dock 17 at timestep 43.
+Successfully docked incoming ship with ship id 198 at dock 19 at timestep 43.
+Successfully undocked incoming ship with ship id 170 from dock 27 at timestep 43.
+Successfully docked incoming ship with ship id 155 at dock 8 at timestep 43.
+Successfully undocked incoming ship with ship id 178 from dock 23 at timestep 43.
+Successfully docked incoming ship with ship id 137 at dock 21 at timestep 43.
+Successfully undocked incoming ship with ship id 141 from dock 13 at timestep 43.
+Successfully docked incoming ship with ship id 130 at dock 20 at timestep 43.
+Successfully undocked incoming ship with ship id 168 from dock 6 at timestep 43.
+Successfully docked incoming ship with ship id 195 at dock 26 at timestep 43.
+Successfully undocked outgoing ship with ship id 67 from dock 14 at timestep 43.
+Ending timestep 43.
+Successfully docked incoming ship with ship id 201 at dock 23 at timestep 44.
+Successfully docked incoming ship with ship id 203 at dock 17 at timestep 44.
+Successfully docked incoming ship with ship id 200 at dock 27 at timestep 44.
+Successfully docked incoming ship with ship id 202 at dock 6 at timestep 44.
+Successfully docked incoming ship with ship id 199 at dock 13 at timestep 44.
+Successfully undocked incoming ship with ship id 153 from dock 18 at timestep 44.
+Successfully undocked incoming ship with ship id 173 from dock 1 at timestep 44.
+Successfully docked outgoing ship with ship id 59 at dock 14 at timestep 44.
+Ending timestep 44.
+Successfully undocked incoming ship with ship id 174 from dock 24 at timestep 45.
+Successfully docked incoming ship with ship id 177 at dock 1 at timestep 45.
+Successfully undocked incoming ship with ship id 181 from dock 10 at timestep 45.
+Successfully undocked incoming ship with ship id 186 from dock 9 at timestep 45.
+Successfully docked incoming ship with ship id 204 at dock 18 at timestep 45.
+Ending timestep 45.
+Successfully docked incoming ship with ship id 176 at dock 9 at timestep 46.
+Successfully docked outgoing ship with ship id 48 at dock 10 at timestep 46.
+Successfully docked outgoing ship with ship id 39 at dock 24 at timestep 46.
+Ending timestep 46.
+Successfully undocked incoming ship with ship id 184 from dock 12 at timestep 47.
+Ending timestep 47.
+Successfully undocked incoming ship with ship id 196 from dock 29 at timestep 48.
+Successfully undocked incoming ship with ship id 203 from dock 17 at timestep 48.
+Successfully undocked incoming ship with ship id 192 from dock 22 at timestep 48.
+Successfully undocked incoming ship with ship id 125 from dock 16 at timestep 48.
+Successfully undocked incoming ship with ship id 188 from dock 15 at timestep 48.
+Successfully undocked incoming ship with ship id 183 from dock 11 at timestep 48.
+Successfully undocked incoming ship with ship id 182 from dock 7 at timestep 48.
+Successfully undocked incoming ship with ship id 179 from dock 3 at timestep 48.
+Successfully undocked incoming ship with ship id 202 from dock 6 at timestep 48.
+Successfully undocked incoming ship with ship id 189 from dock 2 at timestep 48.
+Successfully docked outgoing ship with ship id 87 at dock 12 at timestep 48.
+Ending timestep 48.
+Successfully undocked incoming ship with ship id 197 from dock 25 at timestep 49.
+Successfully undocked incoming ship with ship id 201 from dock 23 at timestep 49.
+Successfully undocked incoming ship with ship id 194 from dock 4 at timestep 49.
+Successfully docked incoming ship with ship id 219 at dock 2 at timestep 49.
+Successfully docked incoming ship with ship id 212 at dock 7 at timestep 49.
+Successfully docked incoming ship with ship id 213 at dock 3 at timestep 49.
+Successfully docked incoming ship with ship id 210 at dock 11 at timestep 49.
+Successfully docked incoming ship with ship id 207 at dock 22 at timestep 49.
+Successfully docked incoming ship with ship id 215 at dock 15 at timestep 49.
+Successfully docked incoming ship with ship id 205 at dock 17 at timestep 49.
+Successfully docked incoming ship with ship id 216 at dock 6 at timestep 49.
+Successfully undocked incoming ship with ship id 137 from dock 21 at timestep 49.
+Successfully undocked incoming ship with ship id 130 from dock 20 at timestep 49.
+Successfully undocked incoming ship with ship id 165 from dock 5 at timestep 49.
+Successfully docked incoming ship with ship id 214 at dock 16 at timestep 49.
+Successfully undocked incoming ship with ship id 191 from dock 0 at timestep 49.
+Successfully docked outgoing ship with ship id 114 at dock 29 at timestep 49.
+Ending timestep 49.
+Successfully docked incoming ship with ship id 224 at dock 25 at timestep 50.
+Successfully undocked incoming ship with ship id 193 from dock 28 at timestep 50.
+Successfully docked incoming ship with ship id 222 at dock 23 at timestep 50.
+Successfully docked incoming ship with ship id 225 at dock 20 at timestep 50.
+Successfully docked incoming ship with ship id 223 at dock 5 at timestep 50.
+Successfully undocked incoming ship with ship id 200 from dock 27 at timestep 50.
+Successfully docked incoming ship with ship id 218 at dock 21 at timestep 50.
+Successfully docked incoming ship with ship id 116 at dock 4 at timestep 50.
+Successfully docked incoming ship with ship id 151 at dock 0 at timestep 50.
+Successfully undocked incoming ship with ship id 177 from dock 1 at timestep 50.
+Successfully undocked outgoing ship with ship id 39 from dock 24 at timestep 50.
+Ending timestep 50.
+Successfully docked incoming ship with ship id 227 at dock 1 at timestep 51.
+Successfully docked incoming ship with ship id 226 at dock 27 at timestep 51.
+Successfully docked incoming ship with ship id 229 at dock 24 at timestep 51.
+Successfully undocked incoming ship with ship id 195 from dock 26 at timestep 51.
+Successfully undocked incoming ship with ship id 198 from dock 19 at timestep 51.
+Successfully undocked incoming ship with ship id 204 from dock 18 at timestep 51.
+Successfully undocked incoming ship with ship id 155 from dock 8 at timestep 51.
+Successfully docked outgoing ship with ship id 109 at dock 28 at timestep 51.
+Ending timestep 51.
+Successfully docked incoming ship with ship id 231 at dock 8 at timestep 52.
+Successfully docked incoming ship with ship id 235 at dock 26 at timestep 52.
+Successfully docked incoming ship with ship id 232 at dock 19 at timestep 52.
+Successfully docked incoming ship with ship id 234 at dock 18 at timestep 52.
+Successfully undocked outgoing ship with ship id 59 from dock 14 at timestep 52.
+Ending timestep 52.
+Successfully undocked incoming ship with ship id 199 from dock 13 at timestep 53.
+Successfully undocked incoming ship with ship id 205 from dock 17 at timestep 53.
+Successfully undocked incoming ship with ship id 176 from dock 9 at timestep 53.
+Successfully undocked incoming ship with ship id 216 from dock 6 at timestep 53.
+Successfully docked outgoing ship with ship id 78 at dock 14 at timestep 53.
+Ending timestep 53.
+Successfully docked incoming ship with ship id 243 at dock 17 at timestep 54.
+Successfully docked incoming ship with ship id 239 at dock 9 at timestep 54.
+Successfully docked incoming ship with ship id 245 at dock 6 at timestep 54.
+Successfully docked incoming ship with ship id 244 at dock 13 at timestep 54.
+Successfully undocked incoming ship with ship id 225 from dock 20 at timestep 54.
+Successfully undocked outgoing ship with ship id 48 from dock 10 at timestep 54.
+Ending timestep 54.
+Successfully docked incoming ship with ship id 247 at dock 20 at timestep 55.
+Successfully undocked incoming ship with ship id 226 from dock 27 at timestep 55.
+Successfully undocked incoming ship with ship id 207 from dock 22 at timestep 55.
+Successfully undocked incoming ship with ship id 215 from dock 15 at timestep 55.
+Successfully undocked incoming ship with ship id 151 from dock 0 at timestep 55.
+Successfully docked outgoing ship with ship id 139 at dock 10 at timestep 55.
+Successfully undocked outgoing ship with ship id 87 from dock 12 at timestep 55.
+Ending timestep 55.
+Successfully undocked incoming ship with ship id 235 from dock 26 at timestep 56.
+Successfully docked incoming ship with ship id 255 at dock 22 at timestep 56.
+Successfully docked incoming ship with ship id 246 at dock 0 at timestep 56.
+Successfully docked incoming ship with ship id 230 at dock 27 at timestep 56.
+Successfully docked incoming ship with ship id 256 at dock 15 at timestep 56.
+Successfully undocked incoming ship with ship id 222 from dock 23 at timestep 56.
+Successfully undocked incoming ship with ship id 214 from dock 16 at timestep 56.
+Successfully undocked incoming ship with ship id 210 from dock 11 at timestep 56.
+Successfully undocked incoming ship with ship id 116 from dock 4 at timestep 56.
+Successfully undocked outgoing ship with ship id 114 from dock 29 at timestep 56.
+Successfully docked outgoing ship with ship id 66 at dock 12 at timestep 56.
+Ending timestep 56.
+Successfully docked incoming ship with ship id 261 at dock 4 at timestep 57.
+Successfully docked incoming ship with ship id 263 at dock 29 at timestep 57.
+Successfully docked incoming ship with ship id 264 at dock 11 at timestep 57.
+Successfully undocked incoming ship with ship id 227 from dock 1 at timestep 57.
+Successfully docked incoming ship with ship id 262 at dock 26 at timestep 57.
+Successfully docked incoming ship with ship id 260 at dock 23 at timestep 57.
+Successfully docked incoming ship with ship id 258 at dock 16 at timestep 57.
+Successfully undocked incoming ship with ship id 218 from dock 21 at timestep 57.
+Successfully undocked incoming ship with ship id 212 from dock 7 at timestep 57.
+Successfully undocked incoming ship with ship id 219 from dock 2 at timestep 57.
+Ending timestep 57.
+Successfully undocked incoming ship with ship id 224 from dock 25 at timestep 58.
+Successfully undocked incoming ship with ship id 243 from dock 17 at timestep 58.
+Successfully docked incoming ship with ship id 267 at dock 7 at timestep 58.
+Successfully docked incoming ship with ship id 266 at dock 1 at timestep 58.
+Successfully docked incoming ship with ship id 238 at dock 21 at timestep 58.
+Successfully docked incoming ship with ship id 254 at dock 2 at timestep 58.
+Successfully undocked incoming ship with ship id 229 from dock 24 at timestep 58.
+Successfully undocked incoming ship with ship id 223 from dock 5 at timestep 58.
+Successfully undocked incoming ship with ship id 213 from dock 3 at timestep 58.
+Successfully undocked outgoing ship with ship id 109 from dock 28 at timestep 58.
+Ending timestep 58.
+Successfully docked incoming ship with ship id 269 at dock 3 at timestep 59.
+Successfully docked incoming ship with ship id 270 at dock 24 at timestep 59.
+Successfully docked incoming ship with ship id 268 at dock 17 at timestep 59.
+Successfully docked incoming ship with ship id 252 at dock 5 at timestep 59.
+Successfully docked incoming ship with ship id 249 at dock 28 at timestep 59.
+Successfully docked incoming ship with ship id 233 at dock 25 at timestep 59.
+Successfully undocked incoming ship with ship id 232 from dock 19 at timestep 59.
+Ending timestep 59.
+Successfully docked incoming ship with ship id 273 at dock 19 at timestep 60.
+Successfully undocked incoming ship with ship id 231 from dock 8 at timestep 60.
+Successfully undocked incoming ship with ship id 234 from dock 18 at timestep 60.
+Successfully undocked incoming ship with ship id 256 from dock 15 at timestep 60.
+Successfully undocked incoming ship with ship id 244 from dock 13 at timestep 60.
+Ending timestep 60.
+Successfully docked incoming ship with ship id 275 at dock 15 at timestep 61.
+Successfully docked incoming ship with ship id 278 at dock 8 at timestep 61.
+Successfully undocked incoming ship with ship id 239 from dock 9 at timestep 61.
+Successfully undocked incoming ship with ship id 230 from dock 27 at timestep 61.
+Successfully docked incoming ship with ship id 251 at dock 13 at timestep 61.
+Successfully undocked incoming ship with ship id 262 from dock 26 at timestep 61.
+Successfully docked incoming ship with ship id 250 at dock 18 at timestep 61.
+Successfully undocked incoming ship with ship id 247 from dock 20 at timestep 61.
+Successfully undocked incoming ship with ship id 245 from dock 6 at timestep 61.
+Successfully undocked outgoing ship with ship id 78 from dock 14 at timestep 61.
+Ending timestep 61.
+Successfully docked incoming ship with ship id 283 at dock 20 at timestep 62.
+Successfully docked incoming ship with ship id 274 at dock 27 at timestep 62.
+Successfully docked incoming ship with ship id 277 at dock 6 at timestep 62.
+Successfully docked incoming ship with ship id 284 at dock 26 at timestep 62.
+Successfully undocked incoming ship with ship id 258 from dock 16 at timestep 62.
+Successfully docked incoming ship with ship id 241 at dock 9 at timestep 62.
+Successfully docked outgoing ship with ship id 148 at dock 14 at timestep 62.
+Ending timestep 62.
+Successfully undocked incoming ship with ship id 255 from dock 22 at timestep 63.
+Successfully undocked incoming ship with ship id 270 from dock 24 at timestep 63.
+Successfully undocked incoming ship with ship id 238 from dock 21 at timestep 63.
+Successfully docked incoming ship with ship id 209 at dock 16 at timestep 63.
+Successfully undocked outgoing ship with ship id 139 from dock 10 at timestep 63.
+Ending timestep 63.
+Successfully docked incoming ship with ship id 291 at dock 22 at timestep 64.
+Successfully docked incoming ship with ship id 272 at dock 21 at timestep 64.
+Successfully undocked incoming ship with ship id 260 from dock 23 at timestep 64.
+Successfully undocked incoming ship with ship id 246 from dock 0 at timestep 64.
+Successfully undocked incoming ship with ship id 266 from dock 1 at timestep 64.
+Successfully docked outgoing ship with ship id 134 at dock 24 at timestep 64.
+Successfully docked outgoing ship with ship id 164 at dock 10 at timestep 64.
+Ending timestep 64.
+Successfully docked incoming ship with ship id 296 at dock 1 at timestep 65.
+Successfully docked incoming ship with ship id 297 at dock 23 at timestep 65.
+Successfully undocked incoming ship with ship id 263 from dock 29 at timestep 65.
+Successfully undocked incoming ship with ship id 273 from dock 19 at timestep 65.
+Successfully undocked incoming ship with ship id 264 from dock 11 at timestep 65.
+Successfully undocked incoming ship with ship id 261 from dock 4 at timestep 65.
+Successfully docked incoming ship with ship id 294 at dock 0 at timestep 65.
+Successfully undocked incoming ship with ship id 249 from dock 28 at timestep 65.
+Successfully undocked incoming ship with ship id 267 from dock 7 at timestep 65.
+Successfully undocked incoming ship with ship id 252 from dock 5 at timestep 65.
+Successfully undocked incoming ship with ship id 254 from dock 2 at timestep 65.
+Successfully undocked outgoing ship with ship id 66 from dock 12 at timestep 65.
+Ending timestep 65.
+Successfully docked incoming ship with ship id 300 at dock 2 at timestep 66.
+Successfully docked incoming ship with ship id 298 at dock 4 at timestep 66.
+Successfully docked incoming ship with ship id 304 at dock 11 at timestep 66.
+Successfully docked incoming ship with ship id 288 at dock 7 at timestep 66.
+Successfully docked incoming ship with ship id 289 at dock 5 at timestep 66.
+Successfully docked incoming sdid the isMatch which gave 0 in solver 0 correct string is 9 but got 5
+did the isMatch which gave 0 in solver 3 correct string is 9 but got 6
+did the isMatch which gave 0 in solver 4 correct string is 9 but got 7
+did the isMatch which gave 0 in solver 6 correct string is 9 but got 8
+did the isMatch which gave 1 in solver 7 correct string is 9 but got 9
+hip with ship id 302 at dock 12 at timestep 66.
+Successfully docked incoming ship with ship id 286 at dock 19 at timestep 66.
+Successfully docked incoming ship with ship id 295 at dock 28 at timestep 66.
+Successfully docked incoming ship with ship id 301 at dock 29 at timestep 66.
+Successfully undocked incoming ship with ship id 268 from dock 17 at timestep 66.
+Successfully undocked incoming ship with ship id 250 from dock 18 at timestep 66.
+Ending timestep 66.
+Successfully docked incoming ship with ship id 309 at dock 17 at timestep 67.
+Successfully undocked incoming ship with ship id 297 from dock 23 at timestep 67.
+Successfully undocked incoming ship with ship id 283 from dock 20 at timestep 67.
+Successfully undocked incoming ship with ship id 278 from dock 8 at timestep 67.
+Successfully undocked incoming ship with ship id 269 from dock 3 at timestep 67.
+Successfully docked incoming ship with ship id 308 at dock 18 at timestep 67.
+Successfully undocked incoming ship with ship id 233 from dock 25 at timestep 67.
+Ending timestep 67.
+Successfully docked incoming ship with ship id 316 at dock 3 at timestep 68.
+Successfully undocked incoming ship with ship id 274 from dock 27 at timestep 68.
+Successfully undocked incoming ship with ship id 275 from dock 15 at timestep 68.
+Successfully undocked incoming ship with ship id 277 from dock 6 at timestep 68.
+Successfully docked incoming ship with ship id 313 at dock 23 at timestep 68.
+Successfully docked incoming ship with ship id 307 at dock 25 at timestep 68.
+Successfully docked incoming ship with ship id 285 at dock 8 at timestep 68.
+Successfully docked incoming ship with ship id 276 at dock 20 at timestep 68.
+Successfully undocked incoming ship with ship id 251 from dock 13 at timestep 68.
+Successfully undocked outgoing ship with ship id 148 from dock 14 at timestep 68.
+Ending timestep 68.
+Successfully docked incoming ship with ship id 318 at dock 15 at timestep 69.
+Successfully docked incoming ship with ship id 311 at dock 27 at timestep 69.
+Successfully undocked incoming ship with ship id 291 from dock 22 at timestep 69.
+Successfully docked incoming ship with ship id 314 at dock 6 at timestep 69.
+Successfully docked incoming ship with ship id 319 at dock 13 at timestep 69.
+Successfully docked outgoing ship with ship id 64 at dock 14 at timestep 69.
+Ending timestep 69.
+Successfully docked incoming ship with ship id 322 at dock 22 at timestep 70.
+Successfully undocked incoming ship with ship id 284 from dock 26 at timestep 70.
+Successfully undocked incoming ship with ship id 272 from dock 21 at timestep 70.
+Successfully undocked incoming ship with ship id 209 from dock 16 at timestep 70.
+Successfully undocked incoming ship with ship id 308 from dock 18 at timestep 70.
+Successfully undocked incoming ship with ship id 241 from dock 9 at timestep 70.
+Ending timestep 70.
+Successfully docked incoming ship with ship id 325 at dock 21 at timestep 71.
+Successfully docked incoming ship with ship id 327 at dock 26 at timestep 71.
+Successfully docked incoming ship with ship id 315 at dock 9 at timestep 71.
+Successfully docked incoming ship with ship id 292 at dock 16 at timestep 71.
+Successfully docked incoming ship with ship id 323 at dock 18 at timestep 71.
+Successfully undocked incoming ship with ship id 301 from dock 29 at timestep 71.
+Successfully undocked incoming ship with ship id 288 from dock 7 at timestep 71.
+Successfully undocked incoming ship with ship id 294 from dock 0 at timestep 71.
+Successfully undocked outgoing ship with ship id 134 from dock 24 at timestep 71.
+Successfully undocked outgoing ship with ship id 164 from dock 10 at timestep 71.
+Ending timestep 71.
+Successfully docked incoming ship with ship id 329 at dock 0 at timestep 72.
+Successfully undocked incoming ship with ship id 309 from dock 17 at timestep 72.
+Successfully docked incoming ship with ship id 331 at dock 7 at timestep 72.
+Successfully undocked incoming ship with ship id 304 from dock 11 at timestep 72.
+Successfully undocked incoming ship with ship id 298 from dock 4 at timestep 72.
+Successfully docked outgoing ship with ship id 186 at dock 24 at timestep 72.
+Successfully docked outgoing ship with ship id 190 at dock 29 at timestep 72.
+Successfully docked outgoing ship with ship id 47 at dock 10 at timestep 72.
+Ending timestep 72.
+Successfully docked incoming ship with ship id 333 at dock 4 at timestep 73.
+Successfully docked incoming ship with ship id 334 at dock 11 at timestep 73.
+Successfully undocked incoming ship with ship id 296 from dock 1 at timestep 73.
+Successfully docked incoming ship with ship id 339 at dock 17 at timestep 73.
+Successfully undocked incoming ship with ship id 286 from dock 19 at timestep 73.
+Successfully undocked incoming ship with ship id 289 from dock 5 at timestep 73.
+Ending timestep 73.
+Successfully docked incoming ship with ship id 341 at dock 1 at timestep 74.
+Successfully undocked incoming ship with ship id 311 from dock 27 at timestep 74.
+Successfully undocked incoming ship with ship id 300 from dock 2 at timestep 74.
+Successfully docked incoming ship with ship id 340 at dock 5 at timestep 74.
+Successfully docked incoming ship with ship id 328 at dock 19 at timestep 74.
+Successfully undocked incoming ship with ship id 295 from dock 28 at timestep 74.
+Successfully undocked incoming ship with ship id 307 from dock 25 at timestep 74.
+Successfully undocked incoming ship with ship id 322 from dock 22 at timestep 74.
+Successfully undocked incoming ship with ship id 302 from dock 12 at timestep 74.
+Successfully undocked incoming ship with ship id 319 from dock 13 at timestep 74.
+Ending timestep 74.
+Successfully undocked incoming ship with ship id 325 from dock 21 at timestep 75.
+Successfully docked incoming ship with ship id 346 at dock 22 at timestep 75.
+Successfully docked incoming ship with ship id 310 at dock 27 at timestep 75.
+Successfully docked incoming ship with ship id 336 at dock 28 at timestep 75.
+Successfully docked incoming ship with ship id 326 at dock 2 at timestep 75.
+Successfully docked incoming ship with ship id 306 at dock 25 at timestep 75.
+Successfully docked incoming ship with ship id 129 at dock 13 at timestep 75.
+Successfully docked outgoing ship with ship id 165 at dock 12 at timestep 75.
+Ending timestep 75.
+Successfully undocked incoming ship with ship id 318 from dock 15 at timestep 76.
+Successfully undocked incoming ship with ship id 316 from dock 3 at timestep 76.
+Successfully docked incoming ship with ship id 348 at dock 21 at timestep 76.
+Successfully undocked incoming ship with ship id 313 from dock 23 at timestep 76.
+Successfully undocked incoming ship with ship id 276 from dock 20 at timestep 76.
+Successfully undocked incoming ship with ship id 323 from dock 18 at timestep 76.
+Successfully undocked incoming ship with ship id 285 from dock 8 at timestep 76.
+Ending timestep 76.
+Successfully docked incoming ship with ship id 350 at dock 18 at timestep 77.
+Successfully undocked incoming ship with ship id 333 from dock 4 at timestep 77.
+Successfully undocked incoming ship with ship id 329 from dock 0 at timestep 77.
+Successfully docked incoming ship with ship id 352 at dock 3 at timestep 77.
+Successfully docked incoming ship with ship id 349 at dock 15 at timestep 77.
+Successfully docked incoming ship with ship id 344 at dock 23 at timestep 77.
+Successfully docked incoming ship with ship id 320 at dock 8 at timestep 77.
+Successfully docked incoming ship with ship id 154 at dock 20 at timestep 77.
+Successfully undocked incoming ship with ship id 339 from dock 17 at timestep 77.
+Successfully undocked incoming ship with ship id 314 from dock 6 at timestep 77.
+Successfully undocked outgoing ship with ship id 64 from dock 14 at timestep 77.
+Ending timestep 77.
+Successfully undocked incoming ship with ship id 334 from dock 11 at timestep 78.
+Successfully docked incoming ship with ship id 351 at dock 17 at timestep 78.
+Successfully docked incoming ship with ship id 343 at dock 6 at timestep 78.
+Successfully docked incoming ship with ship id 312 at dock 4 at timestep 78.
+Successfully docked incoming ship with ship id 299 at dock 0 at timestep 78.
+Successfully undocked incoming ship with ship id 328 from dock 19 at timestep 78.
+Successfully undocked incoming ship with ship id 331 from dock 7 at timestep 78.
+Successfully docked outgoing ship with ship id 153 at dock 14 at timestep 78.
+Successfully undocked outgoing ship with ship id 190 from dock 29 at timestep 78.
+Ending timestep 78.
+Successfully docked incoming ship with ship id 358 at dock 11 at timestep 79.
+Successfully docked incoming ship with ship id 360 at dock 7 at timestep 79.
+Successfully undocked incoming ship with ship id 341 from dock 1 at timestep 79.
+Successfully docked incoming ship with ship id 364 at dock 19 at timestep 79.
+Successfully docked incoming ship with ship id 356 at dock 29 at timestep 79.
+Successfully undocked incoming ship with ship id 327 from dock 26 at timestep 79.
+Successfully undocked incoming ship with ship id 348 from dock 21 at timestep 79.
+Successfully undocked incoming ship with ship id 315 from dock 9 at timestep 79.
+Successfully undocked outgoing ship with ship id 186 from dock 24 at timestep 79.
+Successfully undocked outgoing ship with ship id 47 from dock 10 at timestep 79.
+Ending timestep 79.
+Successfully undocked incoming ship with ship id 350 from dock 18 at timestep 80.
+Successfully docked incoming ship with ship id 367 at dock 1 at timestep 80.
+Successfully docked incoming ship with ship id 359 at dock 26 at timestep 80.
+Successfully docked incoming ship with ship id 365 at dock 21 at timestep 80.
+Successfully docked incoming ship with ship id 362 at dock 9 at timestep 80.
+Successfully docked incoming ship with ship id 353 at dock 24 at timestep 80.
+Successfully docked incoming ship with ship id 361 at dock 10 at timestep 80.
+Successfully undocked incoming ship with ship id 292 from dock 16 at timestep 80.
+Ending timestep 80.
+Successfully docked incoming ship with ship id 369 at dock 16 at timestep 81.
+Successfully docked incoming ship with ship id 91 at dock 18 at timestep 81.
+Ending timestep 81.
+Successfully undocked incoming ship with ship id 358 from dock 11 at timestep 82.
+Successfully undocked incoming ship with ship id 346 from dock 22 at timestep 82.
+Successfully undocked incoming ship with ship id 340 from dock 5 at timestep 82.
+Successfully undocked incoming ship with ship id 326 from dock 2 at timestep 82.
+Successfully undocked outgoing ship with ship id 165 from dock 12 at timestep 82.
+Ending timestep 82.
+Successfully docked incoming ship with ship id 377 at dock 11 at timestep 83.
+Successfully docked incoming ship with ship id 374 at dock 22 at timestep 83.
+Successfully docked incoming ship with ship id 368 at dock 5 at timestep 83.
+Successfully undocked incoming ship with ship id 360 from dock 7 at timestep 83.
+Successfully docked incoming ship with ship id 381 at dock 2 at timestep 83.
+Successfully docked incoming ship with ship id 378 at dock 12 at timestep 83.
+Successfully undocked incoming ship with ship id 336 from dock 28 at timestep 83.
+Successfully undocked incoming ship with ship id 310 from dock 27 at timestep 83.
+Successfully undocked incoming ship with ship id 306 from dock 25 at timestep 83.
+Successfully undocked incoming ship with ship id 364 from dock 19 at timestep 83.
+Successfully undocked incoming ship with ship id 129 from dock 13 at timestep 83.
+Ending timestep 83.
+Successfully docked incoming ship with ship id 382 at dock 7 at timestep 84.
+Successfully docked incoming ship with ship id 383 at dock 19 at timestep 84.
+Successfully docked incoming ship with ship id 373 at dock 27 at timestep 84.
+Successfully docked incoming ship with ship id 371 at dock 25 at timestep 84.
+Successfully docked incoming ship with ship id 375 at dock 28 at timestep 84.
+Successfully docked outgoing ship with ship id 206 at dock 13 at timestep 84.
+Ending timestep 84.
+Successfully undocked incoming ship with ship id 344 from dock 23 at timestep 85.
+Successfully undocked incoming ship with ship id 351 from dock 17 at timestep 85.
+Successfully undocked incoming ship with ship id 349 from dock 15 at timestep 85.
+Successfully undocked incoming ship with ship id 312 from dock 4 at timestep 85.
+Successfully undocked incoming ship with ship id 367 from dock 1 at timestep 85.
+Ending timestep 85.
+Successfully docked incoming ship with ship id 390 at dock 4 at timestep 86.
+Successfully docked incoming ship with ship id 384 at dock 1 at timestep 86.
+Successfully docked incoming ship with ship id 386 at dock 15 at timestep 86.
+Successfully docked incoming ship with ship id 388 at dock 23 at timestep 86.
+Successfully docked incoming ship with ship id 376 at dock 17 at timestep 86.
+Successfully undocked incoming ship with ship id 154 from dock 20 at timestep 86.
+Successfully undocked incoming ship with ship id 320 from dock 8 at timestep 86.
+Successfully undocked incoming ship with ship id 361 from dock 10 at timestep 86.
+Successfully undocked incoming ship with ship id 362 from dock 9 at timestep 86.
+Successfully undocked incoming ship with ship id 352 from dock 3 at timestep 86.
+Successfully undocked incoming ship with ship id 299 from dock 0 at timestep 86.
+Ending timestep 86.
+Successfully undocked incoming ship with ship id 368 from dock 5 at timestep 87.
+Successfully docked incoming ship with ship id 396 at dock 8 at timestep 87.
+Successfully docked incoming ship with ship id 379 at dock 3 at timestep 87.
+Successfully docked incoming ship with ship id 372 at dock 0 at timestep 87.
+Successfully docked incoming ship with ship id 393 at dock 20 at timestep 87.
+Successfully docked incoming ship with ship id 385 at dock 10 at timestep 87.
+Successfully docked incoming ship with ship id 387 at dock 9 at timestep 87.
+Successfully undocked incoming ship with ship id 356 from dock 29 at timestep 87.
